@@ -1,0 +1,12 @@
+# real credentials, copy gateway/secrets.example.h to gateway/secrets.h
+gateway/secrets.h
+
+# build and editor output
+build/
+*.o
+*.elf
+*.bin
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
